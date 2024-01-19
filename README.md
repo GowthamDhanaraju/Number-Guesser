@@ -1,0 +1,3 @@
+This program is used to predict the users number between 1 - 100 by asking questions...
+IF - ELSE statements are used to sort the numbers by asking the using questions based on the number which the user has decided.
+Maximum of 8 questions will be asked before the number is found the program
